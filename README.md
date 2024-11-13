@@ -22,10 +22,10 @@ Wander Mobile App.
 <img src="assets/images/screenshot/homescreen.png">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/sig-nup.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/signin.png">  
+<img src="assets/images/screenshot/sign-in.png">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
