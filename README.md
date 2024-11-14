@@ -2,10 +2,10 @@
 Wander Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Easy Navigation
+* Updated Content
+* Responsive Customer Support
+* Local Insights
 
 # Course Overview
 * Basic React Native Components
