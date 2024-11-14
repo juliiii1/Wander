@@ -19,13 +19,13 @@ Wander Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/homescreen.png">  
+<img src="assets/images/homescreen.png">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/sig-nup.png">  
+<img src="assets/images/sig-nup.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/sign-in.png">  
+<img src="assets/images/sign-in.png">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
