@@ -22,7 +22,7 @@ Wander Mobile App.
 <img src="assets/images/homescreen.png">  
 
 # Sign Up Screen
-<img src="assets/images/sig-nup.png">  
+<img src="assets/images/sign-up.png">  
 
 # Sign In Screen
 <img src="assets/images/sign-in.png">  
