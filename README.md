@@ -32,3 +32,6 @@ Wander Mobile App.
 <img src="assets/images/tabscreen2.png"> 
 <img src="assets/images/tabscreen3.png"> 
 <img src="assets/images/tabscreen4.png"> 
+
+# Screen Demo 
+https://youtube.com/shorts/Kv6qjTcD6m0?feature=share
