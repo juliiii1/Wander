@@ -28,4 +28,7 @@ Wander Mobile App.
 <img src="assets/images/sign-in.png">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/tabscreen1.png">  
+<img src="assets/images/tabscreen2.png"> 
+<img src="assets/images/tabscreen3.png"> 
+<img src="assets/images/tabscreen4.png"> 
